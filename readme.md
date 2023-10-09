@@ -3,6 +3,9 @@
 ## Overview
 
 Android application that displays a list of images with description. The data for these images is fetched from [this API](https://static.leboncoin.fr/img/shared/technical-test.json).
+[Demo Video](Screen_recording_20231001_181328.gif)
+
+<img src="demo-video.gif" alt="Demo" width="300">
 
 ## Architecture
 
