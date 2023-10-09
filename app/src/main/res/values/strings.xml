@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List Of Products</string>
+    <string name="no_item_error">No product to display</string>
+    <string name="list_of_product_title">List Of Products</string>
+    <string name="no_net">No Internet connection</string>
+    <string name="reload">Reload</string>
+</resources>
